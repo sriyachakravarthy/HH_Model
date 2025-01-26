@@ -1,1 +1,2 @@
-# HH_Model
+# Biological Model of Single Neuron Using Hodgkin-Huxley Model
+This project simulates the behavior of a single neuron using the Hodgkin-Huxley model using MATLAB, which is a mathematical model that describes how action potentials in neurons are initiated and propagated. The model incorporates the dynamic behavior of ion channels, membrane potentials, and the flow of ions like sodium (Na+), potassium (K+), and chloride (Cl-) across the neuron’s membrane. This is one of the fundamental models in computational neuroscience for understanding neuronal activity and is often used for research and educational purposes.
